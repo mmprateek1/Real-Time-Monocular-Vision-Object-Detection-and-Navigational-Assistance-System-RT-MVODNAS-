@@ -1,0 +1,9 @@
+opencv-python>=4.11.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+pillow>=11.2.0
+numpy>=2.2.0
+pyttsx3>=2.90
+psutil>=5.9.0
+gputil>=1.4.0
